@@ -6,7 +6,12 @@ Python stdlib only.
 
 import os
 
-ENTRY = "My cat sat through my code review, knocked my laptop off the desk, and left \u2014 the most honest feedback I have ever received."
+# Revised: "attended" replaces "sat through" — it casts the cat as a formal
+# reviewer, so the wordless laptop-shove exit lands as a verdict, not an
+# accident. Shorter setup, same punchline: the turn is the joke (surprise),
+# every word earns its place (economy), and a cat giving a code review by
+# destroying the laptop is a fresh angle, not a stock cat joke.
+ENTRY = "My cat attended my code review, knocked my laptop off the desk, and left \u2014 the most honest feedback I have ever received."
 
 
 def verify(text):
