@@ -8,9 +8,9 @@ A make.fun entry for "One Line, One Laugh" — one line, under 200 characters, i
 
 ## The entry
 
-> My cat sat through my code review, knocked my laptop off the desk, and left — the most honest feedback I have ever received.
+> My cat attended my code review, knocked my laptop off the desk, and left — the most honest feedback I have ever received.
 
-124 characters, 1 line. The cat endures the whole review in silence, then delivers its verdict the only way a cat can — by shoving the laptop off the desk and walking out — and the human has to admit that wordless exit was the most honest feedback of the day.
+121 characters, 1 line. The cat attends the whole review like a formal reviewer in silence, then delivers its verdict the only way a cat can — by shoving the laptop off the desk and walking out — and the human has to admit that wordless exit was the most honest feedback of the day.
 
 ## Run it
 
